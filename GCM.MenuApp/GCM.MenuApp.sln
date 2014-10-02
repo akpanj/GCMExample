@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCM.MenuApp", "GCM.MenuApp\GCM.MenuApp.csproj", "{CB03104B-CCEA-4DB3-A6AB-4F92CAC892CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCM.MenuApp.Test", "GCM.MenuApp.Test\GCM.MenuApp.Test.csproj", "{78D7F8EA-1574-4C90-AE15-B8BB7814C7F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{04AA0620-FB02-43B0-B16A-E67BC223B791}"
+	ProjectSection(SolutionItems) = preProject
+		GCMMenuApp.build = GCMMenuApp.build
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB03104B-CCEA-4DB3-A6AB-4F92CAC892CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB03104B-CCEA-4DB3-A6AB-4F92CAC892CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB03104B-CCEA-4DB3-A6AB-4F92CAC892CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB03104B-CCEA-4DB3-A6AB-4F92CAC892CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78D7F8EA-1574-4C90-AE15-B8BB7814C7F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D7F8EA-1574-4C90-AE15-B8BB7814C7F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78D7F8EA-1574-4C90-AE15-B8BB7814C7F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78D7F8EA-1574-4C90-AE15-B8BB7814C7F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
